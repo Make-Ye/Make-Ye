@@ -1,4 +1,4 @@
-# 💫 About Me[![](https://visitcount.itsvg.in/api?id=Make-Ye&icon=5&color=4)](https://visitcount.itsvg.in):
+# 💫 About Me:[![](https://visitcount.itsvg.in/api?id=Make-Ye&icon=5&color=4)](https://visitcount.itsvg.in)
 🥪 Front End / 🥗 Backend / 🍊 Network Security 
 
 

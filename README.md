@@ -8,5 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Make-Ye&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Make-Ye&theme=shadow_red&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Make-Ye&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/pin/?username=Make-Ye&repo=GitHub_Profile)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

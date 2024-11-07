@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me[![](https://visitcount.itsvg.in/api?id=Make-Ye&icon=5&color=4)](https://visitcount.itsvg.in):
 🥪 Front End / 🥗 Backend / 🍊 Network Security 
 
 
@@ -8,8 +8,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Make-Ye&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Make-Ye&theme=shadow_red&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Make-Ye&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Make-Ye&icon=5&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
